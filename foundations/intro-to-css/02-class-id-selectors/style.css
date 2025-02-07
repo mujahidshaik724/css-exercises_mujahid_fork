@@ -1,0 +1,14 @@
+p {
+background-color: lightsalmon;
+}
+
+.blue{
+    background-color: none;
+    font-size: 36px;
+    color: blue;
+}
+#green{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
